@@ -1,11 +1,13 @@
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
+import {Sidebar} from './component/Sidebar';
 
 function App() {
   return (
     <div className="App">
-      <h1>Bonjour le monde</h1>
-      <p>Lorem opsum</p>
+      
+      <Sidebar />
+      
     </div>
   );
 }

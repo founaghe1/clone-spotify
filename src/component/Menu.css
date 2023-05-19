@@ -1,0 +1,16 @@
+.card{
+    background-color: rgba(9, 8, 9, 0.619) !important;
+    color: rgb(251, 253, 255);
+}
+.card:hover{
+    box-shadow: 0 0 7px;
+    cursor: pointer;
+    transform: scale3d(0.8,0.8,1);
+	transition: transform 5s ease;
+    
+}
+
+.show1{
+    text-decoration: underline;
+    cursor: pointer;
+}
