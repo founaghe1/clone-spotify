@@ -68,10 +68,10 @@ export const Sidebar = () => {
   };
 
   return (
-    <div className={`container-fluid bg-black sticky-top ${isOpen ? 'open' : ''}`}>
+    <div className={`container-fluid bg-black  ${isOpen ? 'open' : ''}`}>
       <div className="row flex-nowrap">
         <div className="col-auto col-md-3 col-sm-3 col-xl-2 px-sm-2 px-0">
-          <nav className="navbar navbar-expand-lg bg-body-tertiary">
+          <nav className="navbar navbar-expand-lg sticky-top bg-body-tertiary">
             <button className="navbar-toggler text-white border-0 shadow-none" type="button" onClick={toggleSidebar}>
               <FaSpotify />
             </button>
