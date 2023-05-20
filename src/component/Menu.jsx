@@ -21,7 +21,7 @@ export const Menu = () => {
         <div className="row d-flex justify-content-center align-items-center">
             <h3 className=" text-start text-light mt-3">Focus <span className="float-end fs-6 show1">show all</span> </h3>
 
-            <div className="col-lg-2 col-md-4 col-sm-6  p-sm-3 ">
+            <div className="col-lg-2 col-md-4 col-sm-6   ">
             <div class="card my-md-5">
                 <img src={logo1} class="card-img-top" alt="..." />
                 <div class="card-body text-start">
@@ -36,7 +36,7 @@ export const Menu = () => {
 
             </div>
 
-            <div className="col-lg-2 col-md-4 col-sm-6  p-sm-3 ">
+            <div className="col-lg-2 col-md-4 col-sm-6 ">
             <div class="card">
                 <img src={logo2} class="card-img-top" alt="..." />
                 <div class="card-body text-start">
@@ -51,7 +51,7 @@ export const Menu = () => {
 
             </div>
 
-            <div className="col-lg-2 col-md-4 col-sm-6  p-sm-3 ">
+            <div className="col-lg-2 col-md-4 col-sm-6   ">
             <div class="card">
                 <img src={logo3} class="card-img-top" alt="..." />
                 <div class="card-body text-start">
@@ -66,7 +66,7 @@ export const Menu = () => {
 
             </div>
 
-            <div className="col-lg-2 col-md-4 col-sm-6  p-sm-3 ">
+            <div className="col-lg-2 col-md-4 col-sm-6   ">
             <div class="card">
                 <img src={logo4} class="card-img-top" alt="..." />
                 <div class="card-body text-start">
@@ -81,7 +81,7 @@ export const Menu = () => {
 
             </div>
 
-            <div className="col-lg-2 col-md-4 col-sm-6  p-sm-3 ">
+            <div className="col-lg-2 col-md-4 col-sm-6   ">
             <div class="card">
             <img src={logo5} class="card-img-top" alt="..." />
             <div class="card-body text-start">
@@ -96,7 +96,7 @@ export const Menu = () => {
 
             </div>
 
-            <div className="col-lg-2 col-md-4 col-sm-6  p-sm-3 ">
+            <div className="col-lg-2 col-md-4 col-sm-6   ">
             <div class="card">
             <img src={logo2} class="card-img-top" alt="..." />
             <div class="card-body text-start">
@@ -118,7 +118,7 @@ export const Menu = () => {
 
         <div className="row d-flex justify-content-center align-items-center ">
             <h3 className=" text-start text-light">Spotify Playliste</h3>
-            <div className="col-lg-2 col-md-4 col-sm-6  p-sm-3  my-3">
+            <div className="col-lg-2 col-md-4 col-sm-6    my-3">
             <div class="card">
             <img src={logo6} class="card-img-top" alt="..." />
             <div class="card-body text-start">
@@ -133,7 +133,7 @@ export const Menu = () => {
 
             </div>
 
-            <div className="col-lg-2 col-md-4 col-sm-6  p-sm-3 ">
+            <div className="col-lg-2 col-md-4 col-sm-6   ">
             <div class="card">
             <img src={logo7} class="card-img-top" alt="..." />
             <div class="card-body text-start">
@@ -148,7 +148,7 @@ export const Menu = () => {
 
             </div>
 
-            <div className="col-lg-2 col-md-4 col-sm-6  p-sm-3 ">
+            <div className="col-lg-2 col-md-4 col-sm-6   ">
             <div class="card">
             <img src={logo8} class="card-img-top" alt="..." />
             <div class="card-body text-start">
@@ -163,7 +163,7 @@ export const Menu = () => {
 
             </div>
 
-            <div className="col-lg-2 col-md-4 col-sm-6  p-sm-3 ">
+            <div className="col-lg-2 col-md-4 col-sm-6   ">
             <div class="card">
             <img src={logo9} class="card-img-top" alt="..." />
             <div class="card-body text-start">
@@ -179,7 +179,7 @@ export const Menu = () => {
 
             </div>
 
-            <div className="col-lg-2 col-md-4 col-sm-6  p-sm-3 ">
+            <div className="col-lg-2 col-md-4 col-sm-6   ">
             <div class="card">
             <img src={logo10} class="card-img-top" alt="..." />
             <div class="card-body text-start">
@@ -194,7 +194,7 @@ export const Menu = () => {
 
             </div>
 
-            <div className="col-lg-2 col-md-4 col-sm-6  p-sm-3 ">
+            <div className="col-lg-2 col-md-4 col-sm-6   ">
             <div class="card">
             <img src={logo7} class="card-img-top" alt="..." />
             <div class="card-body text-start">
